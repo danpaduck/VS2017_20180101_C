@@ -12,6 +12,7 @@ namespace VS2017_20180101_C.Controllers
     {
         public IActionResult Index()
         {
+			//1. Index
             return View();
         }
 
